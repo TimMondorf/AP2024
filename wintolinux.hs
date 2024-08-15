@@ -1,0 +1,1 @@
+main = putStrLn "Denne fil er downloaded fra nettet"
